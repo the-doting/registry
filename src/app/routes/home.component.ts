@@ -128,7 +128,11 @@ export class HomeComponent {
   public submit() {
     this.total = -1;
     this.items = [];
-    this.searchSubscription.unsubscribe();
+
+    if(this.searchSubscription) {
+      this.searchSubscription.unsubscribe();
+    }
+    
     this.router.navigate(['/'], {
       queryParams: {
         q: this.search
