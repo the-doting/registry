@@ -106,6 +106,9 @@
           "options": {
             "buildTarget": "registry_doting:build"
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }
