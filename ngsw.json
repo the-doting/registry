@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1712311455523,
+  "timestamp": 1712312060400,
   "index": "https://registry.doting.ir/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "https://registry.doting.ir/chunk-2BGW67JF.js",
         "https://registry.doting.ir/chunk-FPPP2R7G.js",
-        "https://registry.doting.ir/chunk-GE6PLFPZ.js",
         "https://registry.doting.ir/chunk-H2GG7B3F.js",
+        "https://registry.doting.ir/chunk-RENPLNY2.js",
         "https://registry.doting.ir/favicon.ico",
         "https://registry.doting.ir/index.html",
-        "https://registry.doting.ir/main-WIZZLEB6.js",
+        "https://registry.doting.ir/main-KGWYQAB4.js",
         "https://registry.doting.ir/manifest.webmanifest",
         "https://registry.doting.ir/polyfills-RT5I6R6G.js",
         "https://registry.doting.ir/styles-FRBMMN5I.css"
@@ -56,11 +56,11 @@
     "https://registry.doting.ir/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
     "https://registry.doting.ir/chunk-2BGW67JF.js": "96d47002aaad74a07e7fd32bbde1ece7132bb7b8",
     "https://registry.doting.ir/chunk-FPPP2R7G.js": "06ccfe61187c343795dd7cf3a99d014c77c49474",
-    "https://registry.doting.ir/chunk-GE6PLFPZ.js": "f1b897395d437ff11245cc2e66e0f1563c3618d1",
     "https://registry.doting.ir/chunk-H2GG7B3F.js": "d3ab85a301a40065b83460d30bca332da253f5bc",
+    "https://registry.doting.ir/chunk-RENPLNY2.js": "7c82ed8c956b704b1817f1a5cf633edc07a2b3ca",
     "https://registry.doting.ir/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "https://registry.doting.ir/index.html": "d2dc80a6a52c832b416cc35640716c8aa8fbfd4b",
-    "https://registry.doting.ir/main-WIZZLEB6.js": "3f734d19cc028e65b3ffa03886a6025380d20d65",
+    "https://registry.doting.ir/index.html": "55cedd22aff170f8cd88f920d7f8daed5bc10c02",
+    "https://registry.doting.ir/main-KGWYQAB4.js": "888a3c02bdd1a50f96b8b3291a5f6498c715f5e2",
     "https://registry.doting.ir/manifest.webmanifest": "5e9db7708d14902a8239ba280ed138257384e105",
     "https://registry.doting.ir/polyfills-RT5I6R6G.js": "fe9f024576f21ff6314cf8f8332cde58b9a12416",
     "https://registry.doting.ir/styles-FRBMMN5I.css": "1184e3d1733ee3fd2f3220c1113d981181b0b5e6"
