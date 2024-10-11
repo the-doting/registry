@@ -16,7 +16,7 @@ export class ApiService {
       case 'npm':
         return this.httpService.request({
           method: 'GET',
-          url: `https://npm.registry.doting.ir/-/v1/search?text=${query}`,
+          url: `https://npm.doting.ir/-/v1/search?text=${query}`,
         });
     
       default:
@@ -29,7 +29,7 @@ export class ApiService {
       case 'npm':
         return this.httpService.request({
           method: 'GET',
-          url: `https://npm.registry.doting.ir/${name}/${version}`,
+          url: `https://npm.doting.ir/${name}/${version}`,
         });
     
       default:
